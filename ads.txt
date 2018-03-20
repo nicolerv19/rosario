@@ -1,0 +1,4 @@
+google.com, pub-2795335295345687, DIRECT, f08c47fec0942fa0
+<Field #1>,contextweb.com, 561562, RESELLER, 89ff185a4c4e857c
+<Field #2>,c1exchange.com, c1x_a9_uampubs, RESELLER 
+<Field #3>,amazon-adsystem.com, 9240792, DIRECT
